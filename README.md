@@ -18,6 +18,18 @@ Bu proje sayesinde aşağıdaki mobil uygulama geliştirme temelleri uygulanmı�
 - **Ürün Detay Sayfası:** İlgili gitarın teknik özellikleri (Specs), etiketleri (Tags), yüksek çözünürlüklü kaydırılabilir resim galerisi ve "Add to Cart" butonu. Ayrıca bazı ürünler için dinamik renk seçimi özelliği.
 - **Sepet (Cart Screen):** Seçilen ürünlerin listelendiği, toplam fiyatın hesaplandığı ve statik arka planlı ödeme simülasyon ekranı.
 
+## Ekran Görüntüleri
+
+Uygulamanın yenilenmiş "Heavy Metal" tasarımına ait bazı ekran görüntüleri aşağıdadır:
+
+<div style="display: flex; flex-direction: row; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/alirkal34-jpg/GuitarStore-App/main/assets/screenshots/home_screen.png" alt="Home Screen" width="250"/>
+  <img src="https://raw.githubusercontent.com/alirkal34-jpg/GuitarStore-App/main/assets/screenshots/detail_screen.png" alt="Detail Screen" width="250"/>
+  <img src="https://raw.githubusercontent.com/alirkal34-jpg/GuitarStore-App/main/assets/screenshots/cart_screen.png" alt="Cart Screen" width="250"/>
+</div>
+
+> **Not:** Ekran görüntülerini GitHub'da görüntüleyebilmek için lütfen bu görselleri projenizin `assets/screenshots/` klasörüne (home_screen.png, detail_screen.png, cart_screen.png adlarıyla) yükleyip pushladığınızdan emin olun.
+
 ## Kullanılan Teknolojiler
 
 - **Flutter Sürümü:** Flutter SDK (material.dart)

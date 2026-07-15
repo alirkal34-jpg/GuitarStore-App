@@ -32,8 +32,7 @@ Uygulamanın yenilenmiş "Heavy Metal" tasarımına ait bazı ekran görüntüle
 
 - **Flutter Sürümü:** Flutter SDK (material.dart)
 - **Dil:** Dart
-- **Paketler:** Proje temel Flutter yeteneklerini pekiştirmek amaçlı dış paket kullanılmadan geliştirilmiştir. (Sadece temel kütüphaneler yer almaktadır).
-
+- **Paketler:** Proje temel Flutter yeteneklerini pekiştirmek amaçlı dış paket kullanılmadan geliştirilmiştir. 
 ## Çalıştırma Adımları
 
 Bu projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:

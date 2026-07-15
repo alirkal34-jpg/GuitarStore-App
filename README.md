@@ -23,9 +23,9 @@ Bu proje sayesinde aşağıdaki mobil uygulama geliştirme temelleri uygulanmı�
 Uygulamanın yenilenmiş "Heavy Metal" tasarımına ait bazı ekran görüntüleri aşağıdadır:
 
 <div style="display: flex; flex-direction: row; gap: 10px;">
-  <img src="assets/screenshoots/home_screen.png.png" alt="Home Screen" width="250"/>
-  <img src="assets/screenshoots/detail_screen.png" alt="Detail Screen" width="250"/>
-  <img src="assets/screenshoots/cart_screen.png" alt="Cart Screen" width="250"/>
+  <img src="assets/screenshoots/home_screen.png.png" alt="Home Screen" height="500"/>
+  <img src="assets/screenshoots/detail_screen.png" alt="Detail Screen" height="500"/>
+  <img src="assets/screenshoots/cart_screen.png" alt="Cart Screen" height="500"/>
 </div>
 
 ## Kullanılan Teknolojiler
